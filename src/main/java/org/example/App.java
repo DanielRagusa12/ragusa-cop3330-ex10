@@ -56,7 +56,7 @@ public class App
         System.out.format("%.2f", subtotal);
         System.out.print("\nTax: $");
         System.out.format("%.2f", tax);
-        System.out.print("\nTotal: $");2
+        System.out.print("\nTotal: $");
         System.out.format("%.2f", total);
 
 
